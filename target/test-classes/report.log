@@ -1,0 +1,58 @@
+2019-02-16 15:40:30 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 15:40:34 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 15:44:00 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 15:44:01 WARN  log4jdemo:55 - password is wrong
+2019-02-16 15:44:05 FATAL log4jdemo:70 - catch block msg
+2019-02-16 15:46:37 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 15:46:41 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 15:50:45 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 15:50:45 WARN  log4jdemo:55 - password is wrong
+2019-02-16 15:50:50 FATAL log4jdemo:70 - catch block msg
+2019-02-16 15:52:00 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 15:52:03 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 15:53:49 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 15:53:49 WARN  log4jdemo:55 - password is wrong
+2019-02-16 15:53:52 FATAL log4jdemo:70 - catch block msg
+2019-02-16 15:55:44 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 15:55:48 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 15:56:34 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 15:56:34 WARN  log4jdemo:55 - password is wrong
+2019-02-16 15:56:37 FATAL log4jdemo:70 - catch block msg
+2019-02-16 15:57:34 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 15:57:38 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 15:59:14 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 15:59:14 WARN  log4jdemo:55 - password is wrong
+2019-02-16 15:59:16 FATAL log4jdemo:70 - catch block msg
+2019-02-16 16:01:47 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 16:01:50 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 16:03:04 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 16:03:04 WARN  log4jdemo:55 - password is wrong
+2019-02-16 16:03:08 FATAL log4jdemo:70 - catch block msg
+2019-02-16 16:04:53 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 16:04:56 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 16:05:53 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 16:05:58 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 16:07:08 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 16:07:12 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 16:07:34 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 16:07:34 WARN  log4jdemo:55 - password is wrong
+2019-02-16 16:09:27 INFO  log4jdemo:28 - browser open succesfuuly
+2019-02-16 16:09:31 INFO  log4jdemo:37 - add browser url to open browser successfully
+2019-02-16 16:09:48 DEBUG log4jdemo:47 - user has login succesfully
+2019-02-16 16:09:48 WARN  log4jdemo:55 - password is wrong
+2019-02-16 16:10:17 INFO  log4jdemo:29 - browser open succesfuuly
+2019-02-16 16:10:20 INFO  log4jdemo:38 - add browser url to open browser successfully
+2019-02-16 16:11:11 INFO  log4jdemo:29 - browser open succesfuuly
+2019-02-16 16:11:14 INFO  log4jdemo:38 - add browser url to open browser successfully
+2019-02-16 16:11:58 DEBUG log4jdemo:48 - user has login succesfully
+2019-02-16 16:11:59 DEBUG log4jdemo:48 - user has login succesfully
+2019-02-16 16:11:59 WARN  log4jdemo:56 - password is wrong
+2019-02-16 16:12:00 WARN  log4jdemo:56 - password is wrong
+2019-02-20 16:16:02 INFO  log4jdemo:29 - browser open succesfuuly
+2019-02-20 16:16:07 INFO  log4jdemo:38 - add browser url to open browser successfully
+2019-02-20 16:17:29 DEBUG log4jdemo:48 - user has login succesfully
+2019-02-20 16:17:29 WARN  log4jdemo:56 - password is wrong
+2019-02-20 16:18:20 INFO  log4jdemo:29 - browser open succesfuuly
+2019-02-20 16:18:24 INFO  log4jdemo:38 - add browser url to open browser successfully
+2019-02-20 16:18:59 DEBUG log4jdemo:48 - user has login succesfully
+2019-02-20 16:19:00 WARN  log4jdemo:56 - password is wrong

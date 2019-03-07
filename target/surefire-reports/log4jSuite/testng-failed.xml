@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [log4jSuite]">
+  <test thread-count="5" verbose="0" name="log4jTest(failed)">
+    <classes>
+      <class name="maven_project_Log4j.log4jdemo">
+        <methods>
+          <include name="LoginwithInvalidDetails"/>
+          <include name="CaptureScreenshot"/>
+        </methods>
+      </class> <!-- maven_project_Log4j.log4jdemo -->
+    </classes>
+  </test> <!-- log4jTest(failed) -->
+</suite> <!-- Failed suite [log4jSuite] -->
